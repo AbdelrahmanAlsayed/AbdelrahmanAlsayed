@@ -10,7 +10,7 @@
 
 - 📫 How to reach me by email **dev.abdelrahman7@gmail.com**
 
-- I am currently open to working as a **front-end developer on a freelance basis**.
+- ⚡ I am currently open to working as a **front-end developer on a freelance basis**.
 
 
 <h3 align="left">Connect with me:</h3>
