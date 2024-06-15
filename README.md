@@ -1,15 +1,14 @@
-<h1 align="center"> Hey there,<br> I'm Abdelrahman Alsayed </h1> 
-<h3 align="center">A passionate Frontend Developer </h3>
-
-
-* **Software** developer.
+* **Software** developer and tech enthusiast.
+  
 - 🌱I'm currently enhancing my skills in front-end web development.
 
 - 👨‍💻 All of my projects are available at : <a href="https://github.com/AbdelrahmanAlsayed?tab=repositories"> My Projects</a>
 
-- 📫 How to reach me by email : <a href="mailto:dev.abdelrahman7@gmail.com">My Email</a>
+- 📫 How to reach me by email : <a href="mailto:dev.abdelrahman7@gmail.com">dev.abdelrahman7@gmail.com </a>
 
-- ⚡ I am currently seeking full-time positions as a front-end developer and also open to freelance opportunities.
+-  I am currently working as a full-time front-end developer and freelancer.
+
+- ⚡ I am open to new opportunities, including freelance projects.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
