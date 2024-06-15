@@ -1,12 +1,10 @@
-* **Software** developer and tech enthusiast.
+* **Software** developer and Tech enthusiast.
   
-- 🌱I'm currently enhancing my skills in front-end web development.
+- 🌱 I'm currently enhancing my skills in front-end web development.
 
-- 👨‍💻 All of my projects are available at : <a href="https://github.com/AbdelrahmanAlsayed?tab=repositories"> My Projects</a>
+- 📫 Reach out to me via email : <a href="mailto:dev.abdelrahman7@gmail.com">dev.abdelrahman7@gmail.com </a>
 
-- 📫 How to reach me by email : <a href="mailto:dev.abdelrahman7@gmail.com">dev.abdelrahman7@gmail.com </a>
-
--  I am currently working as a full-time front-end developer and freelancer.
+- 👨‍💻  I am currently working as a full-time front-end developer and freelancer.
 
 - ⚡ I am open to new opportunities, including freelance projects.
 
