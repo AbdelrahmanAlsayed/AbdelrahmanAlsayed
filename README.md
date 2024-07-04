@@ -1,12 +1,14 @@
 * **Software** developer and Tech enthusiast.
   
-- 🌱 I'm currently enhancing my skills in front-end web development.
+- 👨‍💻 I am currently working as a full-time frontend developer and freelancer with 1 year of experience.
 
-- 📫 Reach out to me via email : <a href="mailto:dev.abdelrahman7@gmail.com">dev.abdelrahman7@gmail.com </a>
-
-- 👨‍💻  I am currently working as a full-time front-end developer and freelancer.
+- 🌱 I'm actively enhancing my skills in front-end web development.
 
 - ⚡ I am open to new opportunities, including freelance projects.
+  
+- 📫 Reach out to me via email : <a href="mailto:dev.abdelrahman7@gmail.com">dev.abdelrahman7@gmail.com </a>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
