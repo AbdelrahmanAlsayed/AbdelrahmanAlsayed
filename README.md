@@ -2,7 +2,7 @@
   
 - 👨‍💻 I am currently working as a full-time frontend developer and freelancer with 1 year of experience.
 
-- 🌱 I'm actively enhancing my skills in front-end web development.
+- 🌱 My main stack is JavaScript, React.js, Next.js, TypeScript, Tailwind CSS, and Redux.
 
 - ⚡ I am open to new opportunities, including freelance projects.
   
