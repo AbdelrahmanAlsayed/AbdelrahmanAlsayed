@@ -1,6 +1,6 @@
 * **Software** developer and Tech enthusiast.
   
-- 👨‍💻 I am currently working as a full-time frontend developer and freelancer with 1 year of experience.
+- 👨‍💻 I am currently working as a full-time frontend developer and freelancer with 2 years of experience.
 
 - 🌱 My main stack is JavaScript, React.js, Next.js, TypeScript, Tailwind CSS, and Redux.
 
